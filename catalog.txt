@@ -1,0 +1,52 @@
+Apple iPhone 14 Pro Max 128Gb Deep Purple: 113990
+Apple iPhone 13 128Gb Pink: 65990
+Apple iPhone 14 Pro 256Gb Silver: 107490
+Apple iPhone 14 Pro 256Gb Gold: 108490
+Apple iPhone 14 Pro Max 128Gb Gold: 110990
+Apple iPhone 14 Pro Max 128Gb Silver: 110990
+Apple iPhone 14 Pro Max 1Tb Deep Purple: 160990
+Apple iPhone 14 Pro Max 512Gb Space Black: 145990
+Apple iPhone 14 Pro 512Gb Silver: 129990
+Apple iPhone 13 Pro 128Gb Sierra Blue: 97990
+Apple iPhone 13 128Gb Midnight: 63990
+Apple iPhone 14 Pro 256Gb Deep Purple: 111990
+Apple iPhone 14 Pro Max 256Gb Deep Purple: 116990
+Apple iPhone 13 128Gb Blue: 63990
+Apple iPhone 13 128Gb Starlight: 63990
+Apple iPhone 14 128Gb Blue: 73990
+Apple iPhone 14 128Gb Starlight: 73990
+Apple iPhone 14 128Gb Midnight: 73990
+Apple iPhone 14 Pro 128Gb Deep Purple: 101990
+Apple iPhone 14 Pro Max 256Gb Gold: 116990
+Apple iPhone 14 Pro Max 256Gb Space Black: 116990
+Apple iPhone 14 128Gb Purple: 73990
+Apple iPhone 11 128Gb Black: 44990
+Apple iPhone 14 Pro 256Gb Space Black: 111990
+Apple iPhone 14 Pro 128Gb Space Black: 101990
+Apple iPhone 11 128Gb White: 44990
+Apple iPhone 11 64Gb White: 39990
+Apple iPhone 11 64Gb Black: 38990
+Apple iPhone 14 Pro Max 128Gb Space Black: 113990
+Apple iPhone 12 Mini 64Gb Black: 36490
+Apple iPhone 14 Pro Max 256Gb Silver: 116990
+Apple iPhone 14 256Gb Blue: 79990
+Apple iPhone 14 Pro 128Gb Silver: 101990
+Apple iPhone 14 Pro 128Gb Gold: 93990
+Apple iPhone 11 128Gb Product Red: 44990
+Apple iPhone 14 Plus 128Gb Purple: 76990
+Apple iPhone 12 64Gb Black: 46990
+Apple iPhone 12 128Gb Black: 56490
+Apple iPhone 14 256Gb Midnight: 79990
+Apple iPhone 14 Pro 512Gb Space Black: 129990
+Apple iPhone 13 Mini 128Gb Green: 53990
+Apple iPhone 14 256Gb Starlight: 79990
+Apple iPhone 14 128Gb Red: 73990
+Apple iPhone 13 Mini 128Gb Pink: 53990
+Apple iPhone 12 128Gb Blue: 57490
+Apple iPhone 14 Pro Max 512Gb Deep Purple: 145990
+Apple iPhone 14 256Gb Purple: 79990
+Apple iPhone 13 Mini 128Gb Starlight: 50990
+
+min: 36490 
+max: 160990 
+avg: 57834 
